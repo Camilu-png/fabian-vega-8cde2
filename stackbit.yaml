@@ -61,7 +61,7 @@ models:
         options:
           - light
           - dark
-        default: light
+        default: dark
         required: true
       - type: enum
         name: accent_color
